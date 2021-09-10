@@ -1,11 +1,9 @@
-# Flutter-Quiz-App
-
-
 ---
 title: Visual Studio Code
 short-title: VS Code
 description: How to develop Flutter apps in Visual Studio Code.
 ---
+# Flutter-Quiz-App
 
 <ul class="nav nav-tabs" id="ide" role="tablist">
   <li class="nav-item">
