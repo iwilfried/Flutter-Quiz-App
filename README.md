@@ -16,7 +16,7 @@ description: How to develop Flutter apps in Visual Studio Code.
 
 You can view the project as webapp from here : <a class="nav-link" href="https://flashcard-310fe.web.app" role="tab" aria-selected="false">FlashCard</a>
 
-and you can download the app to you from this Link : <a class="nav-link" href="https://i.diawi.com/y516vB" role="tab" aria-selected="false">FlashCard-Android</a>
+and you can download the app to your android phone from here : <a class="nav-link" href="https://i.diawi.com/y516vB" role="tab" aria-selected="false">FlashCard-Android</a>
 
 or by scaning the following qr code 
 
