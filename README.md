@@ -3,8 +3,6 @@ title: Visual Studio Code
 short-title: VS Code
 description: How to develop Flutter apps in Visual Studio Code.
 ---
-# Flutter-Quiz-App
-
 <ul class="nav nav-tabs" id="ide" role="tablist">
   <li class="nav-item">
     <a class="nav-link" href="/docs/development/tools/android-studio" role="tab" aria-selected="false">Android Studio and IntelliJ</a>
@@ -13,6 +11,16 @@ description: How to develop Flutter apps in Visual Studio Code.
     <a class="nav-link active" role="tab" aria-selected="true">Visual Studio Code</a>
   </li>
 </ul>
+
+# Flutter-Quiz-App
+
+You can view the project as webapp from here : <a class="nav-link" href="https://flashcard-310fe.web.app" role="tab" aria-selected="false">FlashCard</a>
+
+and you can download the app to you from this Link : <a class="nav-link" href="https://i.diawi.com/y516vB" role="tab" aria-selected="false">FlashCard-Android</a>
+
+or by scaning the following qr code 
+
+![y516vB](https://user-images.githubusercontent.com/18642838/132962177-f1714f0e-458c-4306-80c8-0eb3e2959a12.png)
 
 ## Installation and setup
 
