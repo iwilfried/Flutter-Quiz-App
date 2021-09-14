@@ -1,6 +1,6 @@
 # Flutter-Quiz-App
 
-a simple flutter quiz app with flash cards
+A simple flutter-quiz-app with flash cards
 
 ## Demo
 
