@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
           children: [
             Container(
               height: 30,
-              child: Image.asset('assets/images/view.png',),
+              child: Image.asset('assets/Images/view.png',),
             ),
             Expanded(child: SizedBox()),
             Text(
