@@ -20,15 +20,16 @@ class _HomePageState extends State<HomePage> {
           children: [
             Container(
               height: 30,
-              child: Image.asset('assets/Images/view.png',),
+              child: Image.asset('assets/images/LogoMaster.png'),
             ),
             Expanded(child: SizedBox()),
             Text(
               'Accelerated Learning',
               style: TextStyle(
                   color: Colors.black,
+                  fontSize: 25,
                   fontWeight: FontWeight.w300,
-                  fontFamily: "Oswald"),
+                  fontFamily: "Roboto"),
             ),
             Expanded(child: SizedBox()),
           ],
