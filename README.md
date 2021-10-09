@@ -5,7 +5,7 @@ A simple flutter-quiz-app with flash cards
 
 ## Demo
 
-[Preview a Webapp demo](http://flutter-quiz-app.s3-website-us-east-1.amazonaws.com) 
+[Preview a Webapp demo](https://flutter-quiz-app.s3.amazonaws.com/index.html) 
 
 [Download the release APK to try out on your android phone](https://i.diawi.com/y516vB) 
 
