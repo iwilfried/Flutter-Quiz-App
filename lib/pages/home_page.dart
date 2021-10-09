@@ -27,7 +27,6 @@ class _HomePageState extends State<HomePage> {
               'Accelerated Learning',
               style: TextStyle(
                   color: Colors.black,
-                  fontSize: 25,
                   fontWeight: FontWeight.w300,
                   fontFamily: "Roboto"),
             ),
