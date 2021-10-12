@@ -7,11 +7,11 @@ A simple flutter-quiz-app with flash cards
 
 [Preview a Webapp demo](https://flutter-quiz-app.s3.amazonaws.com/index.html) 
 
-[Download the release APK to try out on your android phone](https://i.diawi.com/y516vB) 
+[Download the release APK to try out on your android phone](https://install.appcenter.ms/users/momenamiin/apps/quiz-app/distribution_groups/testers) 
 
 or by scaning the following qr code 
 
-![y516vB](https://user-images.githubusercontent.com/18642838/132962177-f1714f0e-458c-4306-80c8-0eb3e2959a12.png)
+![frame](https://user-images.githubusercontent.com/18642838/136697050-a5717b16-afff-44f6-81a3-b3337d088b73.png)
 
 ## Dependencies
 
