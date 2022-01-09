@@ -17,7 +17,6 @@ jobs:
 
     steps:
 
-
       - name: Flutter action
         # You may pin to the exact commit or the version.
         # uses: subosito/flutter-action@f95a8c953b15637d76e6c0988b765c93f472a5d8
