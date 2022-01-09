@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
               Expanded(child: SizedBox()),
               FittedBox(
                 child: Text(
-                  'Accelerated Learning',
+                  'Accelerated to Learning',
                   style: TextStyle(
                       color: Colors.black,
                       fontWeight: FontWeight.w300,
